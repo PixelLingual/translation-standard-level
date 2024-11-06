@@ -80,4 +80,5 @@ FMT translations may be serviceable for basic understanding but lack the depth, 
 ---
 
 **Summary**
+
 FMT-level translations exemplify the limitations of machine translation when used without significant human intervention. They require careful post-editing to correct terminology, improve readability, and ensure that the translation accurately conveys the source material’s nuances and context.
